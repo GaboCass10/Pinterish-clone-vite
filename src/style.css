@@ -1,0 +1,12 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: rgba(245, 245, 245, 0.893);
+}
+
+header > h1 {
+  color: rgba(245, 245, 245, 0.83);
+  cursor: pointer;
+}
+
